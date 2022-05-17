@@ -1,4 +1,4 @@
-# PyBer_Challenge
+# Ridesharing analysis
 
 ## Overview
 The purpose of this analysis is to examine differences in fares for Uber rides between different market types: Rural, Suburban, and Urban. This started with two datasets: ride-level data by date_time with fares and city-level data with market type and driver count. The two datasets were merged on the city variable for the following analysis. The time frames were Jan to April 2019.
